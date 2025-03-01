@@ -3,7 +3,7 @@
   very satisfactory! If interested, please contact me through my socials as I am also interested in a job aligned with my hobby and interests.
 
 - 🧑‍🎓 I'm currently studying as a Computer Science student in the University of the Philippines Visayas
-- 🌱 I’m currently learning Python, Javascript
+- 🌱 I’m currently learning C
 - 📫 How to reach me: Email 
 
 -->
