@@ -1,4 +1,5 @@
-<img width="1920" height="200" alt="zeratul my goat" src="https://github.com/user-attachments/assets/ecd8fe6c-3454-45bb-a1f3-4931ba2f1446" />
+<img width="1920" height="200" alt="zeratul my goat" src="https://github.com/user-attachments/assets/59759a24-f566-4b07-917f-3e95c351212a" />
+
 
 
 
