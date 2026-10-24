@@ -27,7 +27,6 @@
     <i><h3>Languages (Markups included)</h3></i>
     <div>
         <img src="https://cdn.simpleicons.org/javascript" width="50" height="50" alt="JavaScript">
-        <img src="https://cdn.simpleicons.org/nodedotjs" width="50" height="50" alt="Node.js">
         <img src="https://cdn.simpleicons.org/typescript" width="50" height="50" alt="TypeScript">
         <img src="https://cdn.simpleicons.org/html5" width="50" height="50" alt="HTML5">
         <img src="https://cdn.simpleicons.org/cplusplus" width="50" height="50" alt="C++">
